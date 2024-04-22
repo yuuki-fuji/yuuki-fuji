@@ -11,8 +11,7 @@
 <br /><br />
 📚I primarily work with Ruby and JavaScript, but I've recently been diving into Rust and Go as well. I excel at solving technical problems and am dedicated to finding creative solutions.
 <br /><br />
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-In my spare time, I enjoy coding and reading.
+  🎓I enjoy coding and reading.
 </p>
 
 <br /><br />
