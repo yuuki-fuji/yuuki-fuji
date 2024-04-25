@@ -24,14 +24,11 @@
   
    <br /><br />
  <div style="display: flex; align-items: center; justify-content: space-around;">
-  <div style="margin-right: 10px;">
-    <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yuuki-fuji" alt="GitHub Stats">
-  </div>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki-fuji&layout=compact&theme=onedark" alt="Top Languages">
-    </a>
-  </div>
+     
+  ![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=yuuki-fuji)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki-fuji&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
   <br /><br />
