@@ -15,11 +15,11 @@
 </p>
 
 <br /><br />
-
+![](https://raw.githubusercontent.com/yuuki-fuji/yuuki-fuji/output/github-contribution-grid-snake.svg)
 <h2 align="center">🔥 My Status🔥</h2>
   <br /><br />
   <div align=center>
-  ![](https://raw.githubusercontent.com/yuuki-fuji/yuuki-fuji/output/github-contribution-grid-snake.svg)
+  
    <br /><br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki-fuji&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
   <br /><br />
