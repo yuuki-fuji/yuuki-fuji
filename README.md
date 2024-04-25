@@ -31,7 +31,7 @@
   <br /><br />
 
 ## ✨My Hobby✨
-<div align="center">
+<div align="left">
   
   <img src="./image/Ruby.png" width="150" style="display: inline-block;">
   <img src="./image/Rust.png" width="150" style="display: inline-block;">
