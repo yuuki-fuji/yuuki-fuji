@@ -15,8 +15,12 @@
 </p>
 
 <br /><br />
+<div align=center>
 ![](https://raw.githubusercontent.com/yuuki-fuji/yuuki-fuji/output/github-contribution-grid-snake.svg)
-<h2 align="center">🔥 My Status🔥</h2>
+</div>
+  
+  
+  <h2 align="center">🔥 My Status🔥</h2>
   <br /><br />
   <div align=center>
   
