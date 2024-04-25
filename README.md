@@ -30,11 +30,14 @@
   </div>
   <br /><br />
 
-## Project Experience
-<img src="https://skillicons.dev/icons?i=ruby,js,typescript,cs,php,next,react,laravel,vue,nodejs" /> <br /><br />
+## ✨My Hobby✨
+<img src="./image/Ruby.png" width="150">
+<img src="./image/Rust.png" width="150">
+<img src="./image/Ubuntu.png" width="150">
+<img src="./image/Golang.png" width="150">
 
-## My Best Languages
-<img src="https://skillicons.dev/icons?i=ruby,rust,tailwind" /> <br /><br />
+## 🌞Project Experience🌞
+<img src="https://skillicons.dev/icons?i=ruby,js,typescript,cs,php,next,react,laravel,vue,nodejs" /> <br /><br />
 
 ## Frameworks and Libraries
 <img src="https://skillicons.dev/icons?i=rails,laravel,cake" /> <br /><br />
@@ -50,3 +53,10 @@
 
 ## NOW TRAINING
 <img src="https://skillicons.dev/icons?i=rust,go,bun,deno,python" /> <br /><br />
+
+
+<h2 align="center">✋ Thanks ✋</h2>
+<br />
+
+・SAWARATSUKI/ServiceLogos<br />
+https://github.com/SAWARATSUKI/ServiceLogos?tab=readme-ov-file
