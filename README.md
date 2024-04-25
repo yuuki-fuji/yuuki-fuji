@@ -23,7 +23,17 @@
   <div align=center>
   
    <br /><br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki-fuji&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+ <div style="display: flex; align-items: center; justify-content: space-around;">
+  <div style="margin-right: 10px;">
+    <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yuuki-fuji" alt="GitHub Stats">
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki-fuji&layout=compact&theme=onedark" alt="Top Languages">
+    </a>
+  </div>
+</div>
+
   <br /><br />
   ![Yuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuki-fuji&show_icons=true&theme=onedark)
 
