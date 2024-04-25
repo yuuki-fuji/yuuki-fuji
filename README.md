@@ -31,10 +31,14 @@
   <br /><br />
 
 ## ✨My Hobby✨
-<img src="./image/Ruby.png" width="150">
-<img src="./image/Rust.png" width="150">
-<img src="./image/Ubuntu.png" width="150">
-<img src="./image/Golang.png" width="150">
+<div align="center">
+  
+  <img src="./image/Ruby.png" width="150" style="display: inline-block;">
+  <img src="./image/Rust.png" width="150" style="display: inline-block;">
+  <img src="./image/Ubuntu.png" width="150" style="display: inline-block;">
+  <img src="./image/Golang.png" width="150" style="display: inline-block;">
+
+</div>
 
 ## 🌞Project Experience🌞
 <img src="https://skillicons.dev/icons?i=ruby,js,typescript,cs,php,next,react,laravel,vue,nodejs" /> <br /><br />
