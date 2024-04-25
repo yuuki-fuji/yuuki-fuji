@@ -71,3 +71,6 @@
 
 ・SAWARATSUKI/ServiceLogos<br />
 https://github.com/SAWARATSUKI/ServiceLogos?tab=readme-ov-file
+
+・Skill Icons  
+https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme
