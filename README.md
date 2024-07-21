@@ -9,7 +9,7 @@
 <p align="center">
 💻Hi there, I'm Yuuki Fuji! I'm passionate about coding and continuously learning and growing through programming.
 <br /><br />
-📚I primarily work with Ruby and JavaScript, but I've recently been diving into Rust and Go as well. I excel at solving technical problems and am dedicated to finding creative solutions.
+📚IIIII primarily work with Ruby and JavaScript, but I've recently been diving into Rust and Go as well. I excel at solving technical problems and am dedicated to finding creative solutions.
 <br /><br />
   🎓I enjoy coding and reading.
 </p>
