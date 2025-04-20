@@ -6,10 +6,10 @@
 
 ## ⚔️ アジャイル騎士団 『Sprintia』 の隊長
 
-👑 名前　　　　: Yuuki
-🛡️ 階級　　　　: **スクラムマスター／フルスタック騎士**
-🏞️ 本拠　　　　: Garuda Linux Mokka
-📜 愛読書　　　: Go の騎士道入門 / React の魔術大全
+👑 名前　　　　: Yuuki <br />
+🛡️ 階級　　　　: **スクラムマスター／フルスタック騎士** <br />
+🏞️ 本拠　　　　: Garuda Linux Mokka <br />
+📜 愛読書　　　: Go の騎士道入門 / React の魔術大全 <br />
 
 ### 🧰 装備（Toolchain）
 | ターミナル | シェル | エディタ |
@@ -35,10 +35,10 @@
 
 ## ⚔️ Captain of the Agile Order “Sprintia”
 
-👑 **Name**      : Yuuki
-🛡️ **Rank**      : **Scrum Master / Full‑Stack Knight**
-🏞️ **Base**      : Garuda Linux Mokka
-📜 **Grimoire**  : *The Go Chivalry* / *React Arcana*
+👑 **Name**      : Yuuki <br />
+🛡️ **Rank**      : **Scrum Master / Full‑Stack Knight** <br />
+🏞️ **Base**      : Garuda Linux Mokka <br />
+📜 **Grimoire**  : *The Go Chivalry* / *React Arcana* <br />
 
 ### 🧰 Weapon
 | Terminal | Shell | Editor |
